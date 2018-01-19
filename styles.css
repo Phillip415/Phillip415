@@ -1,0 +1,22 @@
+#example1 {
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 50%;
+    }
+
+.center {
+    display: block;
+    margin: auto;
+    border: 3px black;
+} 
+
+p {
+	color: white; 
+	
+	font-family: arial bold;
+	font-size: 30px;
+	padding: 10px;
+}
+body { 
+    background:url("./Media/Background.jpg");
+}
